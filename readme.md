@@ -4,7 +4,7 @@ Writing is a critical skill for success. However, less than a third of high scho
 
 The dataset contains argumentative essays written by U.S students in grades 6-12. The essays were annotated by expert raters for elements commonly found in argumentative writing.
 
-![image-20220302203335016](C:\Users\sande\AppData\Roaming\Typora\typora-user-images\image-20220302203335016.png)
+![](data\image.png)
 
 
 
